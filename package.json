@@ -13,6 +13,7 @@
     "connect": "2.7.3",
     "browserchannel": "1.0.0",
     "coffee-script": "1.6.0",
+    "redis": "0.8.1",
     "cookie-signature": "*",
     "pause": "*",
     "bytes": "*",
