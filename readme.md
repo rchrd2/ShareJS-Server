@@ -2,7 +2,9 @@
     
 A ShareJS nodejs application using the Redis backend.
 
- 
+Note: The default http port is 4999 instead of 80. The sharejs port is 5000.
+
+
 ### Manually update old sharejs package.json to lock in versions
 
 The coffee-script and browserchannel versions need to be set as well.

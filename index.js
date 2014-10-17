@@ -13,7 +13,7 @@ server.use(connect['static'](__dirname + "/static"));
 
 ShareJS.attach(server, ShareJSOpts);
 
-port = 80;
+port = 4999;
 
 server.listen(port, function() {
   return console.log("Listening on " + port);
